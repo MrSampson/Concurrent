@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Concurrent
+Bundle-SymbolicName: Concurrent
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: concurrent.jar,
+ .
